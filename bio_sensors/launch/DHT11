@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="bio_sensors" name="DHT11_pub" type="simpletest.py" output="screen" required="true" /> 
+</launch>
